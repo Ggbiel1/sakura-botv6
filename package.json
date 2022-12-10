@@ -1,7 +1,7 @@
 {
-  "name": "Sakura-Bot",
+  "name": "Ggbiel-Bot",
   "version": "6.0.0",
-  "description": "Sakura-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
+  "description": "Ggbiel-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
